@@ -18,4 +18,4 @@ Standard statistical methods are used to evaluate the performance of the model a
 
 ## Outcome
 
-The trained model achieved a 99% prediction accuracy against the test data set, correctly classifying 99 out of every 100 emails.
+The trained model achieved a 99% prediction accuracy against the test data set.
