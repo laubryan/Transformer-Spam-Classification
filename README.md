@@ -6,7 +6,7 @@ Training a Transformer model to discriminate spam emails from legitimate ones.
 
 ## Overview  
 
-An good example of a Transformer model at work, applied to the classification of spam emails as outlined in Google's paper [Attention Is All You Need](https://doi.org/10.48550/arXiv.1706.03762) (Vaswan, et al., 2017).
+A good example of a Transformer model's effectiveness as applied to the classification of spam emails. The model is constructed as outlined in Google's paper [Attention Is All You Need](https://doi.org/10.48550/arXiv.1706.03762) (Vaswan, et al., 2017).
 
 ## Methodology
 
